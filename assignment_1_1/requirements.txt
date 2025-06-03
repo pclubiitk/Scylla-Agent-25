@@ -1,6 +1,0 @@
-numpy
-pandas
-openai
-dotenv
-os
-groq
