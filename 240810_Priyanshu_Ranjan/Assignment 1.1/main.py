@@ -7,11 +7,12 @@ load_dotenv()
 GROQ_API_KEY= os.environ['GROQ_API_KEY']
 client = Groq()
 completion = client.chat.completions.create(
-    model="meta-llama/llama-4-scout-17b-16e-instruct",
+    # model="meta-llama/llama-4-scout-17b-16e-instruct",
+    model= "deepseek-r1-distill-llama-70b",
     messages=[
       {
         "role": "user",
-        "content": "Imagine you spawn as Che Guevara at the board meeting of Morgan Stanley, what will you say"
+        "content": "Generate a short conversation between Donald Trump and Che Guevara"
       }
     ],
     temperature= 1.5,

@@ -1,6 +1,8 @@
-openai
+torch
 requests
 numpy
 pandas
 python-dotenv
 groq
+transformers
+accelerate
