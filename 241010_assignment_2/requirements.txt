@@ -1,0 +1,13 @@
+langchain
+dotenv
+groq
+streamlit
+python-dotenv
+langchain-groq
+langchain-community
+weaviate-client
+requests
+cohere
+openai
+sentence-transformers
+faiss-cpu
