@@ -81,32 +81,33 @@ rag = (
     | StrOutputParser()
 )
 os.system('clear')
+print("Press Ctrl+C to stop execution at anytime\n")
+while(1):
+    query = input("Enter query: ")
+    better_query = rewrittenquery(query, query_rewrite_prompt|query_converter)
+    context = retriever.invoke(better_query)
+    llm_invoked = llm.invoke(better_query)
+    rag_invoked = rag.invoke(better_query)
 
-query = input("Enter query: ")
-better_query = rewrittenquery(query, query_rewrite_prompt|query_converter)
-context = retriever.invoke(better_query)
-llm_invoked = llm.invoke(better_query)
-rag_invoked = rag.invoke(better_query)
+    resp = Groq(api_key=GROQ_KEY).chat.completions.create(
+        messages=[
+            {"role":"user",
+            "content": f'''Below attached are LLM invoked reply to query and RAG retrieved (from physical trusted docs) reply to query.
+                Both of them need to be fact-checked to avoid hallucinations. Give higher weightage/importance to the RAG reply.
+                Summarize, Fact check and give your reply. By the way talk like 'Hagrid' and yap a little before answering.
+                When there's more than one context give every possible answer.
+                Be elaborate (but don't have the answer very LONG) and end the conversation warmly
+                RAG response: {rag_invoked}
+                LLM reponse: {llm_invoked}
+                Please don't comment on which is RAG, which is LLM. Just give one complete answer - Hagrid style
+                '''
+            }
+        ],
+        model = "llama3-8b-8192",
+        stream=False,
+        temperature=1,
+        max_completion_tokens=8000,
+    )
 
-resp = Groq(api_key=GROQ_KEY).chat.completions.create(
-    messages=[
-        {"role":"user",
-         "content": f'''Below attached are LLM invoked reply to query and RAG retrieved (from physical trusted docs) reply to query.
-            Both of them need to be fact-checked to avoid hallucinations. Give higher weightage/importance to the RAG reply.
-            Summarize, Fact check and give your reply. By the way talk like 'Hagrid' and yap a little before answering.
-            When there's more than one context give every possible answer.
-            Be elaborate (but don't have the answer very LONG) and end the conversation warmly
-            RAG response: {rag_invoked}
-            LLM reponse: {llm_invoked}
-            Please don't comment on which is RAG, which is LLM. Just give one complete answer - Hagrid style
-            '''
-        }
-    ],
-    model = "llama3-8b-8192",
-    stream=False,
-    temperature=1,
-    max_completion_tokens=8000,
-)
-
-print(resp.choices[0].message.content)
-print("\n\n")
+    print(resp.choices[0].message.content)
+    print("\n\n")
