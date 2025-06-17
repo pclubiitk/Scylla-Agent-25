@@ -12,7 +12,6 @@ from llama_index.core.tools import FunctionTool
 from pydantic import *
 import os
 import dotenv
-import json
 
 dotenv.load_dotenv()
 def usingllms():
