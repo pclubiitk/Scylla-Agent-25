@@ -36,7 +36,7 @@ client = weaviate.Client(
   embedded_options = EmbeddedOptions()
 )
 
-embed = NomicEmbeddings(model="nomic-embed-text-v1.5")
+embed = NomicEmbeddings(model="nomic-embed-text-v1.5", nomic_api_key=NOMIC_KEY)
 
 store = Weaviate.from_documents(
     client = client,
