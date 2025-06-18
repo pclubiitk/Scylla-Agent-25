@@ -1,3 +1,2 @@
-tut
-*.env
-*/venv
+*env
+venv
