@@ -6,3 +6,13 @@ python-dotenv
 groq
 transformers
 accelerate
+
+langgraph
+ipython
+notebook
+
+langchain
+langchain-community
+weaviate-client==3.*
+
+sentence-transformers

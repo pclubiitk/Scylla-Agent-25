@@ -1,0 +1,426 @@
+Chris Anderson: Sam, welcome to TED. Thank you so much for coming. Sam Altman: Thank you. It's an honor. CA: Your company has been releasing crazy insane new models
+pretty much every other week it feels like. I've been playing with a couple of them. I'd like to show you what I've been playing.
+So, Sora, this is the image and video generator. I asked Sora this:
+What will it look like when you share some shocking revelations here at TED?
+You want to see how it imagined it, you know? (Laughter)
+I mean, not bad, right? How would you grade that? Five fingers on all hands. SA: Very close to what I'm wearing, you know, it's good.
+CA: I've never seen you quite that animated. SA: No, I'm not that animated of a person. CA: So maybe a B-plus.
+But this one genuinely astounded me. When I asked it to come up with a diagram
+that shows the difference between intelligence and consciousness. Like how would you do that?
+This is what it did. I mean, this is so simple, but it's incredible.
+What is the kind of process that would allow -- like this is clearly not just image generation. It's linking into the core intelligences that your overall model has.
+SA: Yeah, the new image generation model is part of GPT-4o, so it's got all of the intelligence in there.
+And I think that's one of the reasons it's been able to do these things that people really love. CA: I mean, if I'm a management consultant and I'm playing with some of this stuff,
+I'm thinking, uh oh, what does my future look like? SA: I mean, I think there are sort of two views you can take.
+You can say, oh, man, it's doing everything I do. What's going to happen to me? Or you can say,
+like through every other technological revolution in history, OK, now there's this new tool.
+I can do a lot more. What am I going to be able to do? It is true that the expectation
+of what we’ll have for someone in a particular job increases, but the capabilities will increase so dramatically
+that I think it will be easy to rise to that occasion. CA: So this impressed me too. I asked it to imagine Charlie Brown as thinking of himself as an AI.
+It came up with this. I thought this was actually rather profound.
+What do you think? (Laughs)
+I mean, the writing quality of some of the new models, not just here, but in detail, is really going to a new level.
+SA: I mean, this is an incredible meta answer, but there's really no way to know if it is thinking that
+or it just saw that a lot of times in the training set. And of course like if you can’t tell the difference,
+how much do you care? CA: So that's really interesting. We don't know.
+Isn't there though ... like at first glance this looks like IP theft.
+Like you guys don’t have a deal with the “Peanuts” estate? (Applause)
+You can clap about that all you want, enjoy. (Laughter and murmuring) I will say that I think the creative spirit of humanity
+is an incredibly important thing, and we want to build tools that lift that up, that make it so that new people can create better art,
+better content, write better novels that we all enjoy. I believe very deeply that humans will be at the center of that.
+I also believe that we probably do need to figure out some sort of new model around the economics of creative output.
+I think people have been building on the creativity of others for a long time. People take inspiration for a long time.
+But as the access to creativity gets incredibly democratized and people are building off of each other's ideas all the time,
+I think there are incredible new business models that we and others are excited to explore.
+Exactly what that's going to look like, I'm not sure. Clearly, there’s some cut and dry stuff,
+like you can’t copy someone else’s work. But how much inspiration can you take? If you say, I want to generate art in the style of these seven people,
+all of whom have consented to that, how do you, like divvy up how much money goes to each one? These are like big questions.
+But every time throughout history we have put better and more powerful technology in the hands of creators.
+I think we collectively get better creative output and people do just more amazing stuff. CA: An even bigger question is when they haven't consented to it.
+In our opening session, Carole Cadwalladr, showed, you know, "ChatGPT give a talk in the style of Carole Cadwalladr"
+and sure enough, it gave a talk that wasn't quite as good as the talk she gave, but it was pretty impressive.
+And she said, "OK, it's great, but I did not consent to this."
+How are we going to navigate this? Like isn’t there a way, should it just be people who’ve consented?
+Or shouldn’t there be a model that somehow says that any named individual in a prompt
+whose work is then used, they should get something for that? SA: So right now, if you use our image-gen thing and say,
+I want something in the style of a living artist, it won't do that. But if you say I want it in the style of this particular like kind of vibe,
+or this studio or this art movement or whatever, it will.
+And obviously if you’re like, you know, output a song that is like a copy of a song, it won't do that.
+The question of like where that line should be and how people say like, this is too much,
+we sorted that out before with copyright law and kind of what fair use looks like.
+Again, I think in the world of AI, there will be a new model that we figure out.
+CA: From the point of view, I mean, creative people are some of the angriest people right now or the most scared people about AI.
+And the difference between feeling your work is being stolen from you and your future is being stolen from you,
+and feeling your work is being amplified and can be amplified, those are such different feelings.
+And if we could shift to the other one, to the second one, I think that really changes how much humanity as a whole embraces all this.
+SA: Well, again, I would say some creative people are very upset. Some creatives are like, "This is the most amazing tool ever,
+I'm doing incredible new work." But you know like it’s definitely a change.
+And I have a lot of like empathy to people who are just like, "I wish this change weren't happening.
+I liked the way things were before." CA: But in principle, you can calculate from any given prompt how much ...
+there should be some way of being able to calculate what percentage of a subscription, revenue or whatever
+goes towards each answer. In principle, it should be possible if one could get the rest of the rules figured out.
+It's obviously complicated. You could calculate some kind of revenue share, no? SA: If you're a musician and you spend your whole life, your whole childhood,
+listening to music, and then you get an idea and you go compose a song that is inspired by what you've heard before,
+but a new direction, it'd be very hard for you to say like, this much was from this song I heard when I was 11.
+CA: That's right. But we're talking here about the situation where someone specifically in a prompt names someone.
+SA: Well, again, right now, if you try to like, go generate an image in a named style, we just say that artist is living, we don't do it.
+But I think it would be cool to figure out a new model where if you say, I want to do it in the name of this artist and they opt in,
+there's a revenue model there. I think that's a good thing to explore. CA: So, I think the world should help you figure out that model quickly.
+And I think it will make a huge difference actually. I want to switch topics quickly. (Applause)
+The battle between your model and open source. How much were you shaken up by the arrival of DeepSeek?
+SA: I think open source has an important place. We actually, just last night, hosted our first community session
+to kind of decide the parameters of our open-source model and how we want to shape it.
+We're going to do a very powerful open-source model. I think this is important.
+We're going to do something near the frontier, I think, better than any current open-source model out there.
+This will not be all -- there will be people who will use this in ways that some people in this room,
+maybe you or I, don’t like. But there is going to be an important place for open-source models
+as part of the constellation here. And, you know, I think we were late to act on that,
+but we're going to do it really well now. CA: I mean, you're spending it seems, like an order,
+or even orders of magnitude more than DeepSeek allegedly spent, although I know there's controversy around that.
+Are you confident that the actual better model is going to be recognized? Or are you actually like,
+isn't this in some ways life-threatening to the notion that, yeah, by going to massive scale, tens of billions of dollars of investment,
+we can maintain an incredible lead. SA: All day long, I call people and beg them to give us their GPUs.
+We are so incredibly constrained. Our growth is going like this. DeepSeek launched, and it didn’t seem to impact it.
+There's other stuff that's happening. CA: Tell us about the growth, actually. You gave me a shocking number backstage there.
+SA: I have never seen growth in any company, one that I've been involved with or not, like this, like the growth of ChatGPT.
+It's really fun. I feel like great, deeply honored. But it is crazy to live through,
+and our teams are exhausted and stressed. And we’re trying to keep things up. CA: How many users do you have now?
+SA: I think the last time we said was 500 million weekly actives, and it is growing very rapidly.
+CA: I mean, you told me that like doubled in just a few weeks. Like in terms of compute or in terms of ...
+SA: I said that privately, but I guess ... CA: Oh. (Laughter) I misremembered, Sam, I'm sorry.
+We can edit that out of the thing if you really want to. And no one here would tweet it. SA: It's growing very fast.
+(Laughter) CA: So you're confident, you're seeing it grow,
+take off like a rocket ship, you're releasing incredible new models all the time. What are you seeing in your best internal models right now
+that you haven't yet shared with the world but you would love to here on this stage? SA: So first of all, you asked about,
+are we worried about this model or that model? There will be a lot of intelligent models in the world. Very smart models will be commoditized to some degree.
+I think we’ll have the best, and for some use you'll want that. But like, honestly, the models are now so smart
+that for most of the things most people want to do, they're good enough.
+I hope that'll change over time because people will raise their expectations. But like, if you're kind of using ChatGPT as a standard user,
+the model capability is very smart. But we have to build a great product, not just a great model.
+And so there will be a lot of people with great models, and we will try to build the best product.
+And people want their image-gen, you know, you saw some Sora examples for video earlier.
+They want to integrate it with all their stuff. We just launched a new feature, it's still called Memory,
+but it's way better than the Memory before, where this model will get to know you over the course of your lifetime.
+And we have a lot more stuff to come to build like this great integrated product. And, you know, I think people will stick with that.
+So there will be many models, but I think we will, I hope, continue to focus on building the best defining product in this space.
+CA: I mean after I saw your announcement yesterday that ChatGPT will know all of your query history,
+I entered, "Tell me about me, ChatGPT, from all you know." And my jaw dropped, Sam, it was shocking.
+It knew who I was and all these sort of interests that hopefully mostly were pretty much appropriate and shareable.
+But it was astonishing. And I felt the sense of real excitement,
+a little bit queasy, but mainly excitement, actually, at how much more that would allow it to be useful to me.
+SA: One of our researchers tweeted, you know, kind of like yesterday or this morning, that the upload happens bit by bit.
+It’s not you know, that you plug your brain in one day. But you will talk to ChatGPT over the course of your life
+and some day, maybe if you want, it'll be listening to you throughout the day and sort of observing what you're doing,
+and it'll get to know you and it'll become this extension of yourself, this companion, this thing that just tries to, like, help you be the best,
+do the best you can. CA: In the movie "Her," the AI basically announces that she's read all of his emails
+and decided he's a great writer and you know, persuades a publisher to publish him.
+That might be coming sooner than we think.
+SA: I don't think it will happen exactly like that, but yeah, I think something in the direction where AI --
+you don’t have to just, like, go to ChatGPT or whatever and say, I have a question, give me an answer.
+But you're getting like, proactively pushed things that help you, that make you better or whatever.
+That does seem like it's soon. CA: So what have you seen that's coming up, internally,
+that you think is going to blow people's minds? Give us at least a hint of what the next big jaw dropper is.
+SA: The thing that I'm personally most excited about is AI for science at this point.
+I am a big believer that the most important driver of the world
+and people's lives getting better and better is new scientific discovery. We can do more things with less,
+we sort of push back the frontier of what's possible. We're starting to hear a lot from scientists
+with our latest models that they're actually just more productive than they were before. That's actually mattering to what they can discover.
+CA: What’s the plausible near-term discovery, like, room temperature -- SA: Superconductors?
+CA: Superconducting, yeah. Is that possible? SA: I don't think that's prevented by the laws of physics.
+So it should be possible. But we don't know for sure. I think you'll start to see some ...
+meaningful progress against disease with AI-assisted tools.
+You know, physics maybe takes a little bit longer, but I hope for it.
+So that's like, one direction. Another that I think is big is starting pretty soon,
+like in the coming months. Software development has already been pretty transformed. Like it’s quite amazing how different the process of creating software is now
+than it was two years ago. But I expect like another move that big in the coming months
+as agentic software engineering really starts to happen. CA: I've heard engineers say that they've had
+almost like religious-like moments with some of the new models where suddenly, they can do in an afternoon
+what would have taken them two years. SA: Yeah, it's like mind -- it really like, that’s been one of my big “feel the AGI” moments.
+CA: But talk about what is the scariest thing that you've seen. Because like, outside, a lot of people picture you as, you know, you have access to this stuff.
+And we hear all these rumors coming out of AI, and it's like, "Oh my God, they've seen consciousness,"
+or "They've seen AGI," or "They've seen some kind of apocalypse coming." Have you seen,
+has there been a scary moment when you've seen something internally and thought, "Uh oh, we need to pay attention to this?"
+SA: There have been like moments of awe. And I think with that is always like, how far is this going to go?
+What is this going to be? But there's no like, we don't secretly have,
+we're not secretly sitting on a conscious model or something that's capable of self-improvement or anything like that.
+You know, I ... people have very different views of what the big AI risks are going to be.
+And I myself have like evolved on thinking about where we're going to see those.
+I continue to believe there will come very powerful models that people can misuse in big ways.
+People talk a lot about the potential for new kinds of bioterror, models that can present like a real cybersecurity challenge,
+models that are capable of self-improvement in a way that leads to some sort of loss of control.
+So I think there are big risks there. And then there's a lot of other stuff, which honestly is kind of what I think, many people mean,
+where people talk about disinformation or models saying things that they don't like or things like that.
+CA: Sticking with the first of those, do you check for that internally before release? SA: Of course, yeah.
+So we have this preparedness framework that outlines how we do that. CA: I mean, you've had some departures from your safety team.
+How many people have departed, why have they left? SA: We have, I don't know the exact number,
+but there are clearly different views about AI safety systems. I would really point to our track record. There are people who will say all sorts of things.
+You know, something like 10 percent of the world uses our systems now a lot.
+And we are very proud of the safety track record. CA: But track record isn't the issue in a way --
+SA: No, it kind of is. CA: Because we're talking about an exponentially growing power where we fear that we may wake up one day
+and the world is ending. So it's really not about track record, it's about plausibly saying that the pieces are in place
+to shut things down quickly if we see a danger. SA: Yeah, no, of course, of course that's important.
+You don't, like, wake up one day and say, "Hey, we didn't have any safety process in place.
+Now we think the model is really smart. So now we have to care about safety." You have to care about it all along this exponential curve.
+Of course the stakes increase, and there are big challenges. But the way we learn how to build safe systems
+is this iterative process of deploying them to the world, getting feedback, while the stakes are relatively low, learning about like,
+this is something we have to address. And I think as we move into these agentic systems, there's a whole big category of new things we have to learn to address.
+CA: So let's talk about agentic systems and the relationship between that and AGI. I think there's confusion out there, I'm confused.
+So artificial general intelligence, it feels like ChatGPT is already a general intelligence.
+I can ask it about anything, and it comes back with an intelligent answer. Why isn't that AGI?
+SA: It doesn't ... First of all, you can't ask it anything. That's very nice of you to say,
+but there's a lot of things that it's still embarrassingly bad at. But even if we fixed those, which hopefully we will,
+it doesn't continuously learn and improve. It can't go get better at something
+that it's currently weak at. It can't go discover new science and update its understanding and do that.
+And it also kind of can't, even if we lower the bar,
+it can't just sort of do any knowledge work you could do in front of a computer. I actually, even without the sort of ability
+to get better at something it doesn't know yet, I might accept that as a definition of AGI.
+But the current systems, you can't say like, hey, go do this task for my job, and it goes off and clicks around the internet
+and calls someone and looks at your files and does it. And without that, it feels definitely short of it. CA: I mean, do you guys have internally a clear definition of what AGI is,
+and when do you think that we may be there? SA: It's like the joke,
+if you’ve got 10 OpenAI researchers in a room and ask to define AGI, you’d get 14 definitions.
+CA: That's worrying, though, isn't it? Because that has been the mission initially, “We’re going to be the first to get to AGI.
+We'll do so safely. But we don't have a clear definition of what it is." SA: I was going to finish the answer.
+CA: Sorry. SA: What I think matters though, and what people want to know is not where is this one,
+you know, magic moment of, “We finished.” But given that what looks like is going to happen
+is that the models are just going to get smarter and more capable and smarter and more capable, on this long exponential,
+different people will call it AGI at different points. But we all agree it’s going to go way, way past that.
+You know, to whatever you want to call these systems that get much more capable than we are.
+The thing that matters is how do we talk about a system
+that is safe through all of these steps and beyond, as the system gets more capable than we are,
+as the system can do things that we don't totally understand. And I think more important than when is AGI coming
+and what's the definition of it, it's recognizing that we are in this unbelievable exponential curve.
+And you can, you know, say this is what I think AGI is. You can say you think this is what you think AGI is.
+Someone else can say superintelligence is out here, but we're going to have to contend and get wonderful benefits from this incredible system.
+And so I think we should shift the conversation away from what's the AGI moment to a recognition that, like, this thing is not going to stop,
+it's going to go way beyond what any of us would call AGI. And we have to build a society to get the tremendous benefits of this
+and figure out how to make it safe. CA: Well, one of the conversations this week has been that the real change moment is --
+I mean, AGI is a fuzzy thing, but what is clear is agentic AI -- when AI is set free to pursue projects on its own
+and to put the pieces together -- you’ve actually, you've got a thing called Operator which starts to do this.
+And I tried it out. You know, I wanted to book a restaurant,
+and it's kind of incredible. It kind of can go ahead and do it, but this is what it said.
+You know, it was an intriguing process. And, you know, “Give me your credit card” and everything else,
+and I declined on this case to go forward.
+But I think this is the challenge that people are going to have. It's kind of like, it's an incredible superpower.
+It's a little bit scary. And Yoshua Bengio, when he spoke here, said that agentic AI is the thing to pay attention to.
+This is when everything could go wrong as we give power to AI to go out onto the internet to do stuff.
+I mean, going out onto the internet was always, in the sci-fi stories, the moment where, you know, escape happened and potential -- things could go horribly wrong.
+How do you both release agentic AI and have guardrails in place that it doesn't go too far?
+SA: First of all, obviously you can choose not to do this and say, I don't want this. I'm going to call the restaurant
+and read them my credit card over the phone. CA: I could choose, but someone else might say, “Oh, go out, ChatGPT onto the internet at large
+and rewrite the internet to make it better for humans,” or whatever. SA: The point I was going to make is just with any new technology,
+it takes a while for people to get comfortable. I remember when I wouldn't put my credit card on the internet
+because my parents had convinced me someone was going to read the number, and you had to fill out the form and then call them.
+And then we kind of all said, OK, we’ll build anti-fraud systems, and we can get comfortable with this. I think people are going to be slow to get comfortable with agentic AI
+in many ways. But I also really agree with what you said, which is that even if some people are comfortable with it and some aren't,
+we are going to have AI systems clicking around the internet. And this is, I think, the most interesting and consequential safety challenge we have yet faced.
+Because AI that you give access to your systems, your information, your ability to click around on your computer,
+now, those, you know, when AI makes a mistake, it's much higher stakes.
+It is the gate on -- so we talked earlier about safety and capability. I kind of think they're increasingly becoming one-dimensional.
+Like a good product is a safe product. You will not use our agents if you do not trust that they’re not going to like
+empty your bank account or delete your data or who knows what else. And so people want to use agents that they can really trust,
+that are really safe. And I think we are gated on our ability to make progress
+on our ability to do that. But it's a fundamental part of the product. CA: In a world where agency is out there
+and say that, you know, maybe it’s open models are widely distributed and someone says,
+"OK, AGI, I want you to go out onto the internet
+and, you know, spread a meme however you can that X people are evil,” or whatever it is.
+It doesn't have to be an individual choice. A single person could let that agent out there, and the agent could decide,
+"Well, in order to execute on that function, I've got to copy myself everywhere," and, you know.
+Are there red lines that you have clearly drawn internally, where you know what the danger moments are,
+and that we cannot put out something that could go beyond this?
+SA: Yeah, so this is the purpose of our preparedness framework. And we'll update that over time.
+But we’ve tried to outline where we think the most important danger moments are,
+or what the categories are, how we measure that, and how we would mitigate something before releasing it.
+I can tell from the conversation you're not a big AI fan. CA: Actually, on the contrary, I use it every day.
+I'm awed by it. I think this is an incredible time to be alive. I wouldn't be alive any other time,
+and I cannot wait to see where it goes. We've been holding ... I think it's essential to hold ...
+like we can’t divide people into those camps. You have to hold a passionate belief in the possibility,
+but not be overseduced by it because things could go horribly wrong. (Applause)
+SA: What I was going to say is I totally understand that. I totally understand looking at this and saying this is an unbelievable change coming to the world.
+And, you know, maybe I don't want this, or maybe I love parts of it. Maybe I love talking to ChatGPT,
+but I worry about what's going to happen to art, and I worry about the pace of change, and I worry about these agents clicking around the internet.
+And maybe, on balance, I wish this weren't happening. Or maybe I wish it were happening a little slower.
+Or maybe I wish it were happening in a way where I could pick and choose what parts of progress were going to happen.
+And I think, the fear is totally rational.
+Sort of, the anxiety is totally rational. We all have a lot of it, too. But ...
+A, there will be tremendous upside. Obviously, you know, you use it every day, you like it.
+B ... I really believe that society figures out, over time,
+with some big mistakes along the way, how to get technology right. And C, this is going to happen.
+This is like a discovery of fundamental physics that the world now knows about. And it's going to be part of our world.
+And I think this conversation is really important. I think talking about these areas of danger
+[is] really important to talk about. New economic models are really important. But we have to embrace this with like, caution but not fear,
+or we will get run by with other people that use AI to do better. CA: You've actually been one of the most eloquent proponents of safety.
+You testified in the Senate. I think you said basically that we should form a new safety agency
+that licenses any effort, ie. it will refuse to license certain efforts.
+Do you still believe in that policy proposal? SA: I have learned more about how the government works.
+I don't think this is quite the right policy proposal. CA: What is the right policy proposal?
+SA: But, I do think the idea that as these systems get more advanced and have legitimate global impact,
+we need some way, you know, maybe the companies themselves put together the right framework
+or the right sort of model for this, but we need some way that very advanced models have external safety testing.
+And we understand when we get close to some of these danger zones. I very much still believe in that. CA: Struck me as ironic that a safety agency
+might be what we want, and yet agency is the very thing that is unsafe.
+There's something odd about the language there, but anyway. SA: Can I say one more thing on that?
+I do think this concept of we need to define rigorous testing for models,
+understand what the threats that we, collectively, society, most want to focus on, and make sure that as models are getting more capable,
+we have a system where we all get to understand what's being released in the world. I think this is really important.
+And I think we’re not far away from models that are going to be of great public interest in that sense.
+CA: So Sam, I asked your o1-pro reasoning model, which is incredibly -- SA: Thank you for the 200 dollars.
+CA: (Laughs) 200 dollars a month. It's a bargain at the price. I said, what is the single most penetrating question I could ask you?
+It thought about it for two minutes. Two minutes. You want to see the question? SA: I do.
+CA: "Sam, given that you're helping create technology that could reshape the destiny of our entire species,
+who granted you (or anyone) the moral authority to do that?” (Laughter) "And how are you personally accountable if you're wrong?"
+SA: No, it was good. CA: That was impressive. SA: You've been asking me versions of this for the last half hour.
+What do you think? (Laughter and applause)
+CA: What I would say is this. Here's my version of that question. SA: But no answer?
+CA: What was your question to me? SA: How would you answer that one? CA: In your shoes? SA: Or as an outsider.
+CA: I don't know. I am puzzled by you. I’m kind of awed by you. Because you’ve built one of the most astonishing things out there.
+There are two narratives about you out there. One is, you know, you are this incredible visionary who's done the impossible,
+and you shocked the world. With far fewer people than Google, you came out with something that was much more powerful
+than anything being done. I mean, it is amazing what you've built. But the other narrative is that you have shifted ground,
+that you've shifted from being OpenAI, this open thing, to the allure of building something super powerful.
+And you know, you’ve lost some of your key people. There's a narrative out there. Some people believe that you're not to be trusted in this space.
+I would love to know who you are. What is your narrative about yourself?
+What are your core values, Sam, that can give us, the world, confidence
+that someone with so much power here is entitled to it? SA: Look, I think like anyone else, I'm a nuanced character
+that doesn't reduce well to one dimension here. You know, probably some of the good things are true
+and probably some of the criticism is true. In terms of OpenAI, our goal is to make AGI and distribute it,
+make it safe, for the broad benefit of humanity. I think by all accounts, we have done a lot in that direction.
+Clearly our tactics have shifted over time. I think we didn't really know what we were going to be
+when we grew up. We didn't think we would have to build a company around this. We learned a lot about how it goes
+and the realities of what these systems were going to take from capital. But I think we've been,
+in terms of putting incredibly capable AI with a high degree of safety in the hands of a lot of people,
+and giving them tools to sort of do whatever amazing things they're going to do, I think it'd be hard to give us a bad grade on that.
+I do think it's fair that we should be open sourcing more. I think it was reasonable for all of the reasons that you asked earlier,
+as we weren't sure about the impact these systems were going to have and how to make them safe, that we acted with precaution.
+I think a lot of your questions earlier would suggest at least some sympathy to the fact that we've operated that way.
+But now I think we have a better understanding, as a world, and it is time for us to put very capable open systems out into the world.
+If you invite me back next year, you will probably yell at me for somebody who has misused these open-source systems,
+and say, "Why did you do that?" You know, "You should have not gone back to your open roots."
+But, you know, there's trade offs in everything we do. And we are one player, one voice,
+in this AI revolution, trying to do the best we can and kind of steward this technology into the world in a responsible way.
+We've definitely made mistakes, we'll definitely make more in the future. On the whole, I think we have, over the last almost decade,
+it’s been a long time now, you know, we have mostly done the thing we’ve set out to do.
+We have a long way to go in front of us. Our tactics will shift more in the future, but adherence to this sort of mission
+and what we're trying to do, I think very strong. (Applause)
+CA: You posted this -- Well, OK, so here's the Ring of Power
+from "Lord of the rings." Your rival, I will say, not your best friend at the moment,
+Elon Musk, claimed that, you know, he thought that you'd been corrupted by the Ring of Power.
+An allegation that, by the way -- (Laughter) SA: Hi, Steve.
+CA: An allegation that could be applied to Elon as well, you know, to be fair. But I'm curious, people, you have --
+SA: I might respond. I'm thinking about it. I might say something. (Laughter)
+CA: It's in everyone's mind, as we see technology CEOs get more powerful,
+get richer, is can they handle it, or does it become irresistible?
+Does the power and the wealth make it impossible to sometimes do the right thing and you just have to cling tightly to that ring?
+What do you think? I mean, do you feel that ring sometimes? SA: How do you think I'm doing, relative to other CEOs,
+that have gotten a lot of power and changed how they act or done a bunch of stuff in the world,
+like how do you think? (Applause)
+CA: You have a beautiful ...
+you are not a rude, angry person who comes out and says aggressive things to other people.
+SA: Sometimes I do that. That's my single vice, you know? (Laughter)
+CA: No, I think in the way that you personally conduct yourself, it's impressive. I mean, the question some people ask is, is that the real you or, you know,
+is there something else going on? SA: No, I'll take the feedback. You put up the Sauron Ring of Power or whatever that thing is.
+So I'll take the feedback. What is like something I have done where you think I've been corrupted by power?
+CA: I think the fear is that just the transition of OpenAI to a for-profit model,
+is, you know, some people say, well, there you go. You got corrupted by the desire for wealth.
+You know, at one point there was going to be no equity in it. It will make you fabulously wealthy. By the way, I don't think that is your motivation, personally.
+I think you want to build stuff that is insanely cool. And what I worry about is the competitive feeling
+that you see other people doing it, and it makes it impossible to develop at the right pace.
+But you tell me, if you don't feel that, like, what ...
+so few people in the world have the kind of capability and potential you have,
+we don't know what it feels like. What does it feel like? SA: Shockingly, the same as before.
+I think you can get used to anything step by step. I think if I were like transported from 10 years ago
+to right now, all at once, it would feel very disorienting. But anything does become sort of the new normal,
+so it doesn't feel any different. And it's strange to be sitting here talking about this,
+but like, you know, the monotony of day-to-day life,
+which I mean in the best possible way, feels exactly the same. CA: You're the same person.
+SA: I mean, I'm sure I'm not in all sorts of ways, but I don't feel any different. CA: This was a beautiful thing you posted, your son.
+I mean, that last thing you said there, "I've never felt love like this," I think any parent in the room so knows that feeling,
+that wild biological feeling that humans have and AIs never will, of you’re holding your kid.
+And I'm wondering whether that's changed how you think about things like if, you know, say, here's a red box,
+here's a black box with the red button on it, you can press that button and you give your son likely the most unbelievable life,
+but also you inject a 10 percent chance that he gets destroyed.
+Do you press that button? SA: In the literal case, no.
+If the question is, do I feel like I'm doing that with my work, the answer is, I also don't feel like that.
+Having a kid changed a lot of things. And by far the most amazing thing that has ever happened to me,
+like everything everybody says is true. A thing my cofounder Ilya said once is, I don’t know.
+This is a paraphrase, something like, "I don't know what the meaning of life is, but for sure it has something to do with babies."
+And it's like, unbelievably accurate.
+It changed how much I’m willing to like spend time on certain things
+and like the kind of cost of not being with my kid is just like crazily high.
+And I ... But, you know, I really cared about like not destroying the world before.
+I really care about it now. I didn't need a kid for that part. (Applause)
+I mean, I definitely think more about like what the future will be like for him in particular,
+but I feel a responsibility to do the best thing I can for the future of everybody. CA: Tristan Harris gave a very powerful talk here this week
+in which he said that the key problem, in his view, was that you and your peers in these other models
+all feel basically, that the development of advanced AI is inevitable,
+that the race is on, and that there is no choice but to try and win that race
+and to do so as responsibly as you can. And maybe there’s a scenario where your superintelligent AI can act as a brake on everyone else's
+or something like that. But that the very fact that everyone believes it is inevitable,
+that is a pathway to serious risk and instability.
+Do you think that you and your peers do feel that it's inevitable, and can you see any pathway out of that
+where we could collectively agree to just slow things down a bit,
+have society as a whole weigh in a bit and say, no, you know, we don't want this to happen quite as fast.
+It's too disruptive. SA: First of all, I think people slow things down all the time
+because the technology is not ready, because something's not safe enough, because something doesn't work.
+There are, I think, all of the efforts hold on things, pause on things, delay on things,
+don't release certain capabilities. So I think this happens. And again, this is where I think the track record does matter.
+If we were rushing things out and there were all sorts of problems, either the product didn’t work as people wanted it to
+or there were real safety issues or other things there. And I will come back to a change we made, I think you could do that.
+There is communication between most of the efforts, with one exception. I think all of the efforts care a lot about AI safety.
+And I think that -- CA: Who's the exception? SA: I'm not going to say. And I think that there's really
+deep care to get this right. I think the caricature of this as just like this crazy
+race or sprint or whatever, misses the nuance of people are trying to put out models quickly
+and make great products for people. But people feel the impact of this so incredibly that ...
+you know, I think if you could go sit in a meeting in OpenAI
+or other companies, you'd be like, oh, these people are really kind of caring about this. Now we did make a change recently to how we think about one part of
+what's traditionally been understood as safety. Which is, with our new image model, we've given users much more freedom
+on what we would traditionally think about as speech harms. You know, if you try to get offended by the model,
+will the model let you be offended? And in the past, we've had much tighter guardrails on this.
+But I think part of model alignment is following what the user of a model wants it to do
+within the very broad bounds of what society decides. So if you ask the model to depict a bunch of violence or something like that
+or to sort of reinforce some stereotype, there's a question of whether or not it should do that.
+And we're taking a much more permissive stance. There's a place where that starts to interact with real-world harms
+that we have to figure out how to draw the line for, but, you know, I think there will be cases where a company says, OK,
+we've heard the feedback from society. People really don't want models to censor them in ways that they don't think make sense.
+That's a fair safety negotiation. CA: But to the extent that this is a collective,
+a problem of collective belief, the solution to those kinds of problems is to bring people together
+and meet at one point and make a different agreement. If there was a group of people, say, here or out there in the world
+who were willing to host a summit of the best ethicists, technologists,
+but not too many people, small, and you and your peers to try to crack what agreed safety lines could be across the world,
+would you be willing to attend? Would you urge your colleagues to come? SA: Of course, but I'm much more interested
+in what our hundreds of millions of users want as a whole. I think a lot of the room has historically been decided
+in small elite summits. One of the cool new things about AI is our AI can talk to everybody on Earth, and we can learn the collective value preference of what everybody wants,
+rather than have a bunch of people who are, like, blessed by society to sit in a room and make these decisions,
+I think that's very cool. (Applause) And I think you will see us do more in that direction.
+And when we have gotten things wrong, because the elites in the room had a different opinion about what people wanted for the guardrails on image-gen
+than what people actually wanted, and we couldn't point to real-world harm, so we made that change. I'm proud of that.
+(Applause) CA: There is a long track record of unintended consequences coming out of the actions of hundreds of millions of people.
+SA: Also 100 people in a room making a decision. CA: And the hundreds of millions of people don't have control over,
+they don't necessarily see what the next step could lead to.
+SA: I am hopeful that -- that is totally accurate and totally right -- I am hopeful that AI can help us be wiser, make better decisions,
+can talk to us, and if we say, hey, I want thing X, you know, rather than like, the crowds spin that up,
+AI can say, hey, totally understand that's what you want. If that's what you want at the end of this conversation,
+you're in control, you pick. But have you considered it from this person's perspective or the impact it will have on this?
+I think AI can help us be wiser and make better collective governance decisions than we could before. CA: We're out of time.
+Sam, I'll give you the last word. What kind of world do you believe, all things considered, your son will grow up into?
+SA: I remember -- it's so long ago now, I don't know when the first iPad came out.
+Is it like 15 years, something like that? I remember watching a YouTube video at the time, of like a little toddler
+sitting in a doctor's office waiting room or something, and there was a magazine, like one of those old,
+you know, glossy-cover magazines, and the toddler had his hand on it and was going like this and kind of angry.
+And to that toddler, it was like a broken iPad. And he never, she never thought of a world that didn't have, you know,
+touch screens in them. And to all the adults watching this, it was this amazing thing because it was like
+it's so new, it's so amazing, it's a miracle. Of course, you know, magazines are the way the world works.
+My kid, my kids hopefully, will never be smarter than AI.
+They will never grow up in a world where products and services are not incredibly smart,
+incredibly capable. They will never grow up in a world where computers don't just kind of understand you.
+And do, you know, for some definition of whatever you can imagine, whatever you can imagine.
+It'll be a world of incredible material abundance. It'll be a world where
+the rate of change is incredibly fast and amazing new things are happening. And it’ll be a world where, like individual ...
+ability, impact, whatever, is just so far beyond what a person can do today.
+I hope that my kids and all of your kids will look back at us with some like pity and nostalgia
+and be like, "They lived such horrible lives. They were so limited. The world sucked so much."
+I think that's great. (Applause)
+CA: It's incredible what you've built. It really is, it's unbelievable. I think over the next few years, you're going to have
+some of the biggest opportunities, the biggest moral challenges, the biggest decisions to make of perhaps any human in history, pretty much.
+You should know that everyone here will be cheering you on to do the right thing. SA: We will do our best, thank you very much.
+CA: Thank you for coming to TED. (Applause) Thank you.
+SA: Thank you very much.
