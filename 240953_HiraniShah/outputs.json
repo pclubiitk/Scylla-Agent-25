@@ -1,0 +1,7 @@
+{
+  "Groq | Temp=0.0": "REST stands for Representational State Transfer. It allows systems to interact using standard HTTP methods.",
+  "Groq | Temp=0.7": "A REST API is a web service that allows clients to perform operations like GET and POST over HTTP.",
+  "Groq | Temp=1.0": "Imagine a REST API like a waiter at a restaurant. You send a request (order), and the server (kitchen) responds.",
+  "Gemini": "Tokens are segments of text (like words or subwords) that LLMs process. The more tokens you use, the more it costs.",
+  "DeepSeek": "REST uses lightweight HTTP and JSON, while SOAP is heavier, using XML and strict message formats."
+}
