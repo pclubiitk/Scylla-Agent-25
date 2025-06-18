@@ -5,3 +5,5 @@ llama-index
 llama_index.core
 llama-index-tools-yahoo-finance
 llama-index-tools-tavily-research
+llama-index-utils-workflow
+llama_index.utils.workflow
