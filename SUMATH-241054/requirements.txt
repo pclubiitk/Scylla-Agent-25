@@ -1,5 +1,0 @@
-openai
-numpy==2.2.6
-pandas
-python-dotenv
-groq
