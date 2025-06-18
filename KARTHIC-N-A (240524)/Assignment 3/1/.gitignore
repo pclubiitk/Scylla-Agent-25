@@ -1,4 +1,4 @@
 *.env
 venv
-lib
+lib/
 chroma_db
