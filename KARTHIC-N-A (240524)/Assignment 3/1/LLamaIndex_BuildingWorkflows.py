@@ -49,6 +49,9 @@ class SecondEvent(Event):
     second_output: str
 class LoopEvent(Event):
     loop_output: str
+class ProgressEvent(Event):
+    msg: str
+
 
 class MyWorkflow(Workflow):
     @step
@@ -68,12 +71,11 @@ class MyWorkflow(Workflow):
     async def step_three(self, ev: SecondEvent) -> StopEvent:
         print(ev.second_output)
         return StopEvent(result="Workflow complete.")
-async def main():
+async def main1():
     w = MyWorkflow(timeout=10, verbose=False)
     result = await w.run(first_input = "Start the Workflow")
     print(result)
     draw_all_possible_flows(MyWorkflow, filename="multi_step_workflow.html")
-asyncio.run(main())
 
 
 """
@@ -148,3 +150,29 @@ async def main():
     print(result)
 
 '''
+
+class myworkflow(Workflow): #Streaming Events
+    @step
+    async def step_one(self, ctx: Context, ev:StartEvent) -> FirstEvent:
+        ctx.write_event_to_stream(ProgressEvent(msg="Step one is happening"))
+        return FirstEvent(first_output="First step complete")
+    @step
+    async def step_two(self, ctx: Context, ev: FirstEvent) -> SecondEvent:
+        generator = await llm.astream_complete("Please give me the first 3 paragraphs of 1984, a book in public domain")
+        async for response in generator:
+            ctx.write_event_to_stream(ProgressEvent(msg=response.delta))
+        return SecondEvent(second_output = "Second step complete, full response attached", response=str(response))
+    @step
+    async def step_three(self, ctx: Context, ev: SecondEvent) -> StopEvent:
+        ctx.write_event_to_stream(ProgressEvent(msg="Step three is happening"))
+        return StopEvent(result="Workflow complete")
+async def main2():
+    w = myworkflow(timeout=30, verbose=True)
+    result = w.run(first_input = "Start the Workflow")
+    async for ev in result.stream_events():
+        if isinstance(ev, ProgressEvent):
+            print(ev.msg)
+    final_result = await result
+    print("Final result:", final_result)
+    draw_all_possible_flows(MyWorkflow, filename="streaming_workflow.html")
+asyncio.run(main2())

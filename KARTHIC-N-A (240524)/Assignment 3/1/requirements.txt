@@ -7,3 +7,7 @@ llama-index-tools-yahoo-finance
 llama-index-tools-tavily-research
 llama-index-utils-workflow
 llama_index.utils.workflow
+llama_index.readers.database
+chromadb
+llama_index.vector_stores.chroma
+llama_index.embeddings.google_genai
