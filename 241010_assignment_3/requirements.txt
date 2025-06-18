@@ -1,0 +1,15 @@
+llama-index
+llama-index-utils-workflow
+llama-index-llms-groq
+python-dotenv
+llama-index-vector-stores-faiss
+llama-index-embeddings-huggingface
+faiss-cpu
+langchain
+langchain-community 
+python-dotenv
+langchain_cohere
+chromadb
+sentence-transformers
+langchain_groq
+pymupdf
