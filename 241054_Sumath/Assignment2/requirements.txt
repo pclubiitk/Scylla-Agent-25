@@ -1,0 +1,9 @@
+numpy==2.2.6
+python-dotenv
+groq
+langchain
+langchain-community
+langchain_groq
+langchain_nomic
+weaviate-client==3.*
+requests
