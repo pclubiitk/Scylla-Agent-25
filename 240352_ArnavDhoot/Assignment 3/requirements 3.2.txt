@@ -1,0 +1,9 @@
+python-dotenv
+langchain
+langchain-core
+langchain-community
+langchain-groq
+langchain-cohere
+cohere
+faiss-cpu
+pypdf
