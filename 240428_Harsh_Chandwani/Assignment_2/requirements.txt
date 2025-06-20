@@ -1,0 +1,9 @@
+langchain
+langchain-community
+langchain-cohere
+langchain-google-genai
+cohere
+chromadb
+google-generativeai
+python-dotenv
+requests
