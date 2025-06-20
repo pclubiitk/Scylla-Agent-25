@@ -1,0 +1,4 @@
+*.env
+venv
+lib/
+chroma_db
