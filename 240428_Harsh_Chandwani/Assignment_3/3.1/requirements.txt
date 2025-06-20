@@ -1,0 +1,8 @@
+llama_index
+dotenv
+llama-index-tools-tavily-research
+llama-index-tools-yahoo-finance
+llama-index-llms-google-genai
+llama-index-llms-groq
+llama-index-core
+llama-index-utils-workflow
