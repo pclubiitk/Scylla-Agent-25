@@ -1,0 +1,11 @@
+langchain
+langchain-community
+langchain-cohere
+langchain-groq
+cohere
+groq
+python-dotenv
+pydantic
+chromadb
+PyMuPDF
+dotenv
