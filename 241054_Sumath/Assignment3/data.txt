@@ -1,0 +1,306 @@
+About the Tutorial
+Formula One racing, also known as F1 racing, is the principal form of motor sport,
+usually associated with the thrill and excitement of speed racing. This tutorial
+explains all the elements involved in F1 racing, such as the rules and regulations
+and the essential gears involved in the sport. A brief on the best-in-class racers is
+also provided at the conclusion of the document.
+The information here is meant to supplement your knowledge on the sport.
+However, it is not a comprehensive guide on how to play the sport.
+
+Audience
+This tutorial is meant for those who want to know all about Formula One racing.
+It is prepared keeping in mind that the reader is unaware about the basics of the
+sport. It is a basic guide to help a beginner understand the sport.
+
+Prerequisites
+Before proceeding with this tutorial, you are required to have a passion for the
+sport and an eagerness to acquire knowledge on the same.
+
+Overview
+Formula One, also called F1 in short, is an international auto racing sport. F1 is
+the highest level of single-seat, open-wheel and open-cockpit professional motor
+racing contest.
+Formula One racing is governed and sanctioned by a world body called the FIA -
+Fédération Internationale de l'Automobile or the International Automobile
+Federation. The name ‘Formula’ comes from the set of rules that the participating
+cars and drivers must follow.
+
+Objective
+The objective of a Formula 1 contest is to determine the winner of a race. The
+driver who crosses the finish line first after completing a pre-determined number
+of laps is declared the winner.
+
+Formula One – History & Team Size
+Formula 1 racing originated during the 1920-30s in Europe from other similar
+racing competitions. In 1946, the FIA standardized racing rules and this formed
+the basis of Formula One racing. The inaugural Formula One World Drivers’
+championship was then held in 1950, the first world championship series.
+Apart from the world championship series, many other non-championship F1 races
+were also held, but as the costs of conducting these contests got higher, such
+races were discontinued after 1983.
+Each F1 team can have maximum of four drivers per season. There is support staff
+with every F1 team that plays a vital role in the team’s success.
+
+Number of Grand Prix in a Season
+The number of Grand Prix in a season has varied through the years, starting from
+1950 which had 7 races. This number kept increasing up to a maximum of 20 GPs
+a year (in 2012). Normally there are 19 to 20 GPs in a season now. The 2015 F1
+season has 19 Grand Prix, out of which 8 have been completed.
+
+Grand Prix Naming
+Each GP in a season is hosted by a different country and are named after the host
+country. Example: A GP held in Australia is called an Australian Grand Prix, that
+held in Monaco is called the Monaco Grand Prix and so on. However, a GP can be
+held in same or different cities of the host country every year.
+
+Grand Prix Racing Distance
+The minimum total distance of a Grand Prix race, including all the pre-defined
+number of laps must be 300 km or 190 miles. This is the standard distance for all
+races except for the Monaco GP which is 260 km or 160 miles.
+
+Number of Teams in F1 World Championship
+10 teams with two cars each are permitted to compete in the F1 World
+Championship as of 2015. That is, a total of 20 cars can enter the competition.
+However, the FIA regulations allow a limit of 26 cars for the championship.
+
+Grand Prix World Championships 
+The results of all the Grand Prix races in a season are taken together to determine
+two annual Championship awards. They are:
+1. Drivers' Championship Award (for the drivers)
+2. Constructors' Championship Award (for the constructors)
+The terms ‘drivers’ and ‘constructors’ are explained in later chapters.
+
+FORMULA ONE CAR-DESIGN,SPECS,RULES
+A Formula One car is an open-wheel, open-cockpit, single-seat racing car for the
+purpose of being used in Formula One competitions. It is equipped with two wings
+(front and rear) plus an engine, which is located behind the driver.
+The F1 races are conducted on specifically built racing tracks called ‘circuits’.
+Sometimes they are conducted on closed public roads as well.
+
+Construction
+Every F1 car is composed of two main components - the chassis and the engine.
+Chassis: Formula One cars these days are made from carbon fiber and ultra-
+lightweight components. The weight must be not less than 702 kg or 1548 lbs,
+including the driver and tires, but excluding the fuel.
+The dimensions of a Formula One car must be maximum 180 cm (width) x 95cm
+(height); there is no specified number for maximum length, but all cars tend to
+be of almost the same length.
+Engine: According to regulation changes in 2014, all F1 cars must deploy 1.6 liter
+turbocharged V6 engines.
+
+Gearbox
+Semi-automatic sequential carbon titanium gearboxes are used by F1 cars
+presently, with 8 forward gears and 1 reverse gear, with rear-wheel drive.
+
+Steering Wheel
+The steering wheel of an F1 car is equipped to perform many functions like
+changing gears, changing brake pressure, calling the radio, fuel adjustment, and
+so on.
+
+Fuel
+The fuel used by Formula One cars is a tightly controlled mixture of ordinary petrol,
+and can only contain commercial gasoline compounds rather than alcohol
+compounds.
+
+Tires
+Formula One cars have been using smooth thread, slick tires since 2009. The tire
+dimensions of an F1 car are:
+Front Tire - 245mm (width)
+Rear Tires - 355mm and 380mm (width)
+
+Brakes
+Formula One cars use disc brakes with a rotor and caliper at each tire.
+
+Speed and Performance 
+All F1 cars can accelerate from 0 to 100 mph (160 kmph) and decelerate back to
+0 in under 5 seconds. F1 cars have reached top speeds of about 300 kmph or 185
+mph on an average.
+However, some cars, without fully complying with F1 standards have attained
+speed of 400 kmph or more. These numbers are mostly same for all F1 cars but
+slight variations may exist due to the gears and aerodynamics configuration.
+
+Safety Gear 
+Safety is high priority in motor sports. Formula One has seen many tragedies in
+its early days with many casualties that included drivers and spectators as cars
+crashed at high speeds. Engineers researched using latest technology to build
+safer cars and gear for drivers. This has certainly reduced the number of incidents
+over the last decade. Let’s know about the different safety gears used by drivers
+in this chapter.
+
+Helmets: Helmets are compulsory in F1
+races. Their built is very strong and light so
+that it doesn’t add extra weight on driver’s
+head at high speeds. These are fire resistant
+also. Of course, the helmets have to meet FIA
+standards. The helmet comprises of several
+layers that undergo severe tests. Normally,
+the weight of the helmet is around 1.2 kg.
+Interestingly, the helmets of F1 are painted
+by hand.
+
+HANS: HANS stands for Head and Neck Support. The purpose of HANS is to
+protect the driver’s vertebrae and collision of head to the steering wheel in case
+of an accident. It is built using carbon fiber material and is attached to the seat
+belt in the cockpit. It is coupled with elastic straps. HANS was inducted by FIA
+after a major collision in 1995, Australian GP.
+
+Clothing: The clothing of F1 drivers is
+designed to protect them from fire accidents
+in case of crash. It is a multilayered suit that
+matches specifications of NASA.
+Nomex is the latest fiber material brand used
+to build suits for F1 drivers. The suit
+undergoes thermal testing; it is fire resistant
+and lightweight. The suit is worn by the pit
+crew also. The outfit is washed and dry-
+cleaned multiple times before undergoing tests. There are two handles on
+shoulders of suit so that it can be strapped with seat. This allows the pit crew to
+pull the driver out in one piece with seat during a crash to reduce injuries. Nomex
+fiber can survive temperatures up to 700-800 degree Celsius for more than 10
+seconds.
+
+Popular Terms 
+
+107% rule – A driver should not exceed 107 percent of fastest time in qualifying
+session; if he fails to do so, then he is not allowed to start the race. He is allowed
+to start if he sets a suitable time during the practice session.
+
+Backmarker – The drivers lagging behind are called backmarkers. They are
+shown blue flag to give way for leading drivers.
+
+Blistering – Improper selection of tire compound can cause excess heat that can
+lead to chunks of rubber breaking off from the tire. This is called blistering.
+
+Cockpit – The seating area of the driver in a F1 car is called the cockpit.
+
+Delta Time – The difference of time between two laps or two cars is referred to
+as delta time.
+
+Drive-through penalty – A penalty imposed for minor offence or violation of
+rules on track. It requires the driver to drive at a minimum speed and enter the
+pit lane without stopping. The driver is allowed to re-join the race.
+
+Flat spot – The portion of the tire where it is heavily worn out due to spin or
+extreme breaking is called the flat spot.
+
+Formation lap or warm-up lap – Cars are driven for a lap from the grid before
+the start of the race and then get back to grid positions. This is known as the
+warm-up lap.
+
+Jump start – Sensors are installed at grid positions to monitor the cars that start
+before all the red lights go off signaling the start of race. Such start is called jump
+start and the driver earns a penalty for it.
+
+Lollipop – The sign board at the pit stop that signals the driver to apply brakes
+and stay in first gear before the car is lowered from jacks.
+
+Parc ferme – A restricted area where no team members are allowed and all race
+cars are driven here after completion of practice or race. This area is supervised
+by race stewards only.
+
+Pit board – A board held at pit wall to inform the driver about delta time,
+remaining number of laps, and current position.
+
+Pit wall – It is F1 team area where the manager, engineers, and support staff
+keep close watch on their cars using small screens under a shelter.
+
+Pit – An area of the track separated by a wall. Cars enter team’s pit garage for
+change of wheels, refuel the car, and set up other changes.
+
+Pole position – Driver who recorded fastest time during qualifying session is
+awarded the first grid position on race day.
+
+Steward – A high-ranked official appointed for races to make decisions.
+
+Tire warmer – An electronic blanket is wrapped around the tires before cars are
+positioned for race that keeps them at optimum temperatures before the start of
+the race.
+
+Visor strip – The top edge of helmet needs extra protection and it is provided
+with a visor strip made of Zylon that is a high-resistant carbon fiber material.
+
+Constructor – Since 1981, FIA has passed a rule that respective F1 teams have
+to build their own engine and chassis of the car. The owner of the engine and
+chassis is called the constructor.
+
+Circuit - Formula One circuits are tracks specifically and purposefully built for
+conducting races. F1 circuits are of two types – Street Circuit and Road Circuit.
+
+Rules and Regulations
+
+A Formula One race starts with a warm-up lap, called the formation lap and the
+pit lanes are opened of this purpose 30 minutes before the actual race begins. Pit
+lanes are tracks away from the grid and are parallel to the start/finish line.
+During this time, the drivers are free to take any number of warm-up drives,
+without actually going on the grid. After the pit lane closes, the drivers must take
+their places on the grid in their qualifying order.
+Once all the cars have taken their positions on the grid, the race begins with the
+starting lights - 10 red lights in 5 pairs of columns.
+Each column lights one after the other, at an interval of 1 second from left to right
+direction. After all, 5 columns are illuminated, they stay in that way for a few
+seconds and then all of them are extinguished at once and the race begins.
+If the start is interrupted due to any circumstances, the 5 red lights illuminate
+again but are not extinguished, instead orange lights are lit up and the race is
+restarted.
+The drivers who finish at first, second and third positions at the end of the race
+stand on a podium and are awarded trophies. A constructor's trophy is also
+presented to the winner's team.
+
+Race Distance and Duration
+The length of the race must be 305 km (260 km in case of Monaco GP) and is
+defined as "the smallest number of complete laps that exceeds 305 kilometers".
+The number of laps in a race is obtained by dividing 305 by the length of a lap,
+which differs from track to track.
+The duration of the race cannot be more than 2 hours. If the allocated time of 2
+hours is exceeded, the race is considered to be finished at the end of the ongoing
+lap.
+
+Refueling
+Refueling during races was allowed earlier, but from 2010 this has been abolished.
+As a result, every car must ensure a loaded tank before the race begins. However,
+refueling during races will be permitted again from the 2017 season.
+
+Racing Flags
+Similar to motor sports and other racing competitions, racing flags are used in
+Formula One to send out various messages and signals to the drivers like the race
+start or finish, lap indication, bad weather indication, etc.
+Three categories of flags are used in F1 racing. They are:
+Status Flags
+Instruction Flags
+The Chequered Flag
+
+Status Flags
+There are 5 status flags –
+1. Green Flag: It is used to indicate the start of a race or the restart of a race
+stopped due to a temporary delay.
+2. Yellow Flag: It is an indication of caution to the drivers to go slow due to
+some accident or hazard on the track or due to rain.
+3. Red Flag: It is an indication of danger, especially bad weather conditions
+and signals the drivers to stop or return to the pit immediately, depending
+on the situation.
+4. Red & Yellow Striped Flag: It indicates that the conditions of the track
+have been modified by car debris, spilled oil or sand and could cause
+problems like loss of control and reduced grip.
+5. White Flag: It is displayed at the end of free practice sessions (Friday &
+Saturday) on the last corner and pit straight, indicating to the drivers that
+other drivers are engaged in practice on pit straight.
+
+Instruction Flags
+These flags communicate with only one driver at a time and are of 5 types –
+1. Black Flag: It is shown to impose penalty when a driver has broken some
+rules and instruct the driver to get back to the pit.
+2. Black Flag with Orange Circle: It indicates that a car is being asked to
+return to the cockpit due to technical problems like fuel leak, water leak or
+oil leak, that might interfere with the proceedings of the race.
+3. Per-bend black/white flag: One diagonal of this flag is black and the
+other diagonal is white and is an indication of penalty on the driver due to
+lack of sportsmanship behavior.
+4. Black flag with white cross: This flag is black with two white diagonal
+crosses and is waved when a driver ignores other black flags and instructs
+the driver that his car is not scoring anymore.
+5. Blue Flag: It indicates to the driver that another faster car is coming
+towards his direction and that he should make way for the faster car.
+
+The Chequered Flag
+The chequered flag is waved at the finish line, indicating that the race is officially
+over.
